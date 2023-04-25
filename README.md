@@ -1,3 +1,3 @@
 # StatesFunctionsLibrary
 5 functions with the States dataset
-This is a page of 5 functions with the states datasets. These functions find, 
+These functions provide some useful information about the 50 states in the US.
